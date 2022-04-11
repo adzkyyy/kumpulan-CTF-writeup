@@ -4,66 +4,66 @@
 
 |    Challenge     | Write-ups                    |
 | :--------------: | :--------------------------- |
-|    block-game    | [writeups](block-game)       |
-|  context-clues   | [writeups](context-clues)    |
-|    going_over    | [writeups](going_over)       |
-|     kangaroo     | [writeups](kangaroo)         |
-|   misdirection   | [writeups](misdirection)     |
-|     patches      | [writeups](patches)          |
-|    symbolism     | [writeups](symbolism)        |
-| win-bin-analysis | [writeups](win-bin-analysis) |
+|    block-game    | [writeups](/bin/block-game)       |
+|  context-clues   | [writeups](/bin/context-clues)    |
+|    going_over    | [writeups](/bin/going_over)       |
+|     kangaroo     | [writeups](/bin/kangaroo)         |
+|   misdirection   | [writeups](/bin/misdirection)     |
+|     patches      | [writeups](/bin/patches)          |
+|    symbolism     | [writeups](/bin/symbolism)        |
+| win-bin-analysis | [writeups](/bin/win-bin-analysis) |
 
 ### Crypto 
 
 |       Challenge       | Write-ups                         |
 | :-------------------: | :-------------------------------- |
-|  audio-transmission   | [writeups](audio-transmission)    |
-|   file-zip-cracker    | [writeups](file-zip-cracker)      |
-| hidden-in-plain-sight | [writeups](hidden-in-plain-sight) |
-|    inDEStructible     | [writeups](inDEStructible)        |
-|     new-algorithm     | [writeups](new-algorithm)         |
-|         salad         | [writeups](salad)                 |
-|    secret-message     | [writeups](secret-message)        |
-|   would-you-wordle    | [writeups](would-you-wordle)      |
-|        xoracle        | [writeups](xoracle)               |
+|  audio-transmission   | [writeups](/crypto/audio-transmission)    |
+|   file-zip-cracker    | [writeups](/crypto/file-zip-cracker)      |
+| hidden-in-plain-sight | [writeups](/crypto/hidden-in-plain-sight) |
+|    inDEStructible     | [writeups](/crypto/inDEStructible)        |
+|     new-algorithm     | [writeups](/crypto/new-algorithm)         |
+|         salad         | [writeups](/crypto/salad)                 |
+|    secret-message     | [writeups](/crypto/secret-message)        |
+|   would-you-wordle    | [writeups](/crypto/would-you-wordle)      |
+|        xoracle        | [writeups](/crypto/xoracle)               |
 
 
 ### Forensics
 
 |   Challenge    | Write-up                   |
 | :------------: | :------------------------- |
-| corrupted-file | [writeups](corrupted-file) |
-|  data-backup   | [writeups](data-backup)    |
-|    infected    | [writeups](infected)       |
-| recent-memory  | [writeups](recent-memory)  |
-| scavenger-hunt | [writeups](scavenger-hunt) |
-| speedy-at-midi | [writeups](speedy-at-midi) |
-|  stolen-data   | [writeups](stolen-data)    |
+| corrupted-file | [writeups](/forensic/corrupted-file) |
+|  data-backup   | [writeups](/forensic/data-backup)    |
+|    infected    | [writeups](/forensic/infected)       |
+| recent-memory  | [writeups](/forensic/recent-memory)  |
+| scavenger-hunt | [writeups](/forensic/scavenger-hunt) |
+| speedy-at-midi | [writeups](/forensic/speedy-at-midi) |
+|  stolen-data   | [writeups](/forensic/stolen-data)    |
 
 ## Misc
 
 |     Challenge      | Write-ups                      |
 | :----------------: | :----------------------------- |
-|    bank-clients    | [writeups](bank-clients)       |
-| check-the-shadows  | [writeups](check-the-shadows)  |
-| dnsmasq-ip-extract | [writeups](dnsmasq-ip-extract) |
-|  filtered-feeders  | [writeups](filtered-feeders)   |
-|   firewall-rules   | [writeups](firewall-rules)     |
-|      root-me       | [writeups](root-me)            |
-|     snort-log      | [writeups](snort-log)          |
-|      we-will       | [writeups](we-will)            |
+|    bank-clients    | [writeups](/misc/bank-clients)       |
+| check-the-shadows  | [writeups](/misc/check-the-shadows)  |
+| dnsmasq-ip-extract | [writeups](/misc/dnsmasq-ip-extract) |
+|  filtered-feeders  | [writeups](/misc/filtered-feeders)   |
+|   firewall-rules   | [writeups](/misc/firewall-rules)     |
+|      root-me       | [writeups](/misc/root-me)            |
+|     snort-log      | [writeups](/misc/snort-log)          |
+|      we-will       | [writeups](/misc/we-will)            |
 
 
 ## OSINT
 
 |     Challenge      | Write-ups                      |
 | :----------------: | :----------------------------- |
-|    contributor     | [writeups](contributor)        |
-|      dns-joke      | [writeups](dns-joke)           |
-|      mystery       | [writeups](mystery)            |
-|   photo-op-spot    | [writeups](photo-op-spot)      |
-|       rarity       | [writeups](rarity)             |
-| sho-me-whats-wrong | [writeups](sho-me-whats-wrong) |
+|    contributor     | [writeups](/osint/contributor)        |
+|      dns-joke      | [writeups](/osint/dns-joke)           |
+|      mystery       | [writeups](/osint/mystery)            |
+|   photo-op-spot    | [writeups](/osint/photo-op-spot)      |
+|       rarity       | [writeups](/osint/rarity)             |
+| sho-me-whats-wrong | [writeups](/osint/sho-me-whats-wrong) |
 
 
 ## Web

@@ -21,5 +21,4 @@
 
 ![](./flag_mod.jpg)
 
-* 
 * Flag: `jctf{OaZdSdMo8F}`

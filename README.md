@@ -1,0 +1,3 @@
+# kumpulan-CTF-writeup
+
+awikwokskskskksksksksksk
